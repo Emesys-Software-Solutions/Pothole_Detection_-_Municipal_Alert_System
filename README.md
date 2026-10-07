@@ -33,6 +33,7 @@
 - [Deployment Architecture](#-deployment-architecture)
 - [Expected Deliverables](#-expected-deliverables)
 - [Screenshots](#-screenshots)
+- [Project Demo](#-project-demo)
 - [Future Enhancements](#-future-enhancements)
 - [License](#-license)
 
@@ -567,7 +568,7 @@ Important validation areas include:
 ---
 
 ## 📸 Screenshots
-
+<!--
 Add project screenshots to the `images/` directory and update the paths below.
 
 ### Detection Output
@@ -595,20 +596,26 @@ images/municipal-alert.png
 ![Municipal Alert](images/municipal-alert.png)
 
 
-
+-->
 ---
 
-## 🎥 Demo
+# 🎥 Project Demo
 
+<p align="center">
+  <a href="https://vimeo.com/1233600501">
+    <img
+      src="images/AI_Pothole_Detection_Demo.png"
+      alt="AI Pothole Detection Demo"
+      width="900"
+    />
+  </a>
+</p>
 
-
-```text
-demo/pothole-detection-demo.mp4
-```
-
+<p align="center">
+  ▶️ <b>Click the thumbnail to watch the project demo</b>
+</p>
 
 ---
-
 ## 🔮 Future Enhancements
 
 Potential future improvements include:
